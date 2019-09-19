@@ -22,4 +22,6 @@ class EmailAddressParser
       end
       
     }
-    array.unique
+    array.uniqu
+  end
+end
