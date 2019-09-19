@@ -13,3 +13,4 @@ class EmailAddressParser
     @list = list
   end
   
+  def parse
