@@ -17,3 +17,4 @@ class EmailAddressParser
     array = []
     array =@list.split(/[\s,]/)
     array.each{|address|
+      if 
