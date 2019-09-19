@@ -15,4 +15,4 @@ class EmailAddressParser
   
   def parse
     array = []
-    array =
+    array =@list.split
