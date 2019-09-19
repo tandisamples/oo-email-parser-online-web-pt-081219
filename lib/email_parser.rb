@@ -18,4 +18,4 @@ class EmailAddressParser
     array =@list.split(/[\s,]/)
     array.each{|address|
       if !address.include?("@")
-        
+        array.delete
