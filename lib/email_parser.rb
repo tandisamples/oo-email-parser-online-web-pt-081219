@@ -16,4 +16,4 @@ class EmailAddressParser
   def parse
     array = []
     array =@list.split(/[\s,]/)
-    array.each{|addres
+    array.each{|address|
