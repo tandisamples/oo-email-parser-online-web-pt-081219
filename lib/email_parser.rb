@@ -5,3 +5,5 @@
 
 
 require "pry"
+
+class EmailAddressParser
