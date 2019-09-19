@@ -21,3 +21,4 @@ class EmailAddressParser
         array.delete(address)
       end
       
+    }
