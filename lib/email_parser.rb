@@ -9,4 +9,5 @@ require "pry"
 class EmailAddressParser
   attr_accessor
   @addresses = []
-  def initialize
+  def initialize(list)
+    
