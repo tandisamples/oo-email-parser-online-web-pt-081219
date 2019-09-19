@@ -19,4 +19,5 @@ class EmailAddressParser
     array.each{|address|
       if !address.include?("@")
         array.delete(address)
-        
+      end
+      
